@@ -1,0 +1,24 @@
+.main-footer {
+    background-color: rgba(133, 11, 167, 0.6);
+    color: rgb(255, 255, 255);
+    padding: .25em 0;
+}
+
+.main-footer-container {
+    display: flex;
+    align-items: center;
+}
+
+.main-footer-container ul {
+    flex-grow: 1;
+    text-align: end;
+}
+
+.footer-nav li {
+    padding: 0 .5em;
+}
+
+.footer-nav img {
+    width: 30px;
+    height: 30px;
+}
